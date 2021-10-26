@@ -1,0 +1,16 @@
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.exe
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.deps.json
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.runtimeconfig.json
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.runtimeconfig.dev.json
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.dll
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\ref\BuyLowSellHigh.dll
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.pdb
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.csproj.AssemblyReference.cache
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.AssemblyInfoInputs.cache
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.AssemblyInfo.cs
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.csproj.CoreCompileInputs.cache
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.dll
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\ref\BuyLowSellHigh.dll
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.pdb
+C:\Asp.Net Projects\BuyLowSellHigh\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.genruntimeconfig.cache
